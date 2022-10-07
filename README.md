@@ -5,7 +5,7 @@ There are 2387 files that are 16-bit 44.1khz WAV format from 31 different speake
 
 💾 Download the latest version of the voice pack from the [releases](https://github.com/coqui-ai/coqui-voice-pack/releases/tag/v1).
 
-[🐸Coqui.ai](https://coqui.ai/) is in your service when you need custom lines from the same speakers 🚀
+[🐸Coqui.ai](https://coqui.ai/) is in your service when you need custom lines from the same or new speakers 🚀
 
 ## Dialogues 
 
