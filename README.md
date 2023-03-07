@@ -4,7 +4,7 @@ Coqui Dialogue Audio Pack contains >2000 audio files of >30 synthetic human voic
 ## Content Details
 There are 2541 files that are 16-bit 44.1khz WAV format from 31 different speakers. Each recorded line is a separate file so you can start using them in your project right away. Each file is named in the format `<speaker_name>_<dialoge_category>_<dialoge_line>.wav`. 
 
-💾 Download the latest version of the voice pack from the [releases](https://github.com/coqui-ai/coqui-voice-pack/releases/tag/v1).
+💾 Download the latest version of the voice pack from the [releases](https://github.com/coqui-ai/coqui-voice-pack/releases/tag/v2).
 
 ## Coqui Studio
 **[Coqui.ai](https://coqui.ai/) is in your service when you need custom lines from the same or new speakers 🚀**. You can find the same speakers on Coqui Studio and create new lines for your game. 
